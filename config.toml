@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Het is van ons"
 themesDir = "themes"
 theme = "hugo-serif-theme"
-#publishDir = "docs"
+publishDir = "docs"
 
 [module]
   [module.hugoVersion]
@@ -20,8 +20,8 @@ theme = "hugo-serif-theme"
     show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
-    mobile_height = "36px"
+    mobile = "images/logo/logomob.png"
+    mobile_height = "40px"
     desktop = "images/logo/logo2.png"
     desktop_height = "66px"
     alt = "Serif - A Hugo Business Theme"
