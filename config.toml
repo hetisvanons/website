@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Het is van ons"
 themesDir = "themes"
 theme = "hugo-serif-theme"
-publishDir = "docs"
+#publishDir = "docs"
 
 [module]
   [module.hugoVersion]
